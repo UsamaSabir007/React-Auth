@@ -16,7 +16,7 @@ To get started with this project, follow the instructions below:
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/react-firebase-authentication.git
+   git clone https://github.com/UsamaSabir007/React-Auth.git
    ```
 
 2. Navigate to the project directory:
